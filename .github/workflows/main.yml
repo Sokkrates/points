@@ -14,8 +14,8 @@ permissions:
   contents: write # Grants permissions to write to the repo
 
 env:
-  GIT_USER_EMAIL: raymondmartinabas@gmail.com
-  GIT_USER_NAME: Aries1000
+  GIT_USER_EMAIL: xeroalain1@gmail.com
+  GIT_USER_NAME: gitsdoga
 
 jobs:
   ethereum_auto_commit:
